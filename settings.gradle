@@ -1,0 +1,2 @@
+include ':hackzurich'
+include ':qrcodereaderview'
